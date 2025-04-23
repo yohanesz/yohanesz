@@ -1,4 +1,4 @@
-<h1 align="center">Oii! Sou o Yohanês Zanghelini :D</h1> 
+<h1 align="center">Hey! Sou o Yohanês Zanghelini :D</h1> 
 
 <h2> Sobre mim </h2>
 📖 - Estudante de Ciências da Computação no Instituto Federal Catarinense </br>
