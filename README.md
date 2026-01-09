@@ -3,7 +3,6 @@
 <h2> Sobre mim </h2>
 📖 - Estudante de Ciências da Computação no Instituto Federal Catarinense </br>
 💼 - Desenvolvedor Web e voluntário na FABTEC </br>
-🧠 - Atualmente focado no desenvolvimento front-end </br>
 🎮 - Gamer nas horas vagas
 
 <picture>
